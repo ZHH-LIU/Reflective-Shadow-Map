@@ -1,3 +1,3 @@
 # Reflective-Shadow-Map
 
-* Visal Studio 2022
+* Visual Studio 2022
