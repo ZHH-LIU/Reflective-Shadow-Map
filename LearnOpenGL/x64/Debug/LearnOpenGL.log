@@ -1,0 +1,11 @@
+﻿E:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(LearnOpenGL.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  glad.c
+  main.cpp
+F:\GIT\Projects\RSM\LearnOpenGL\src\font.h(142,33): warning C4838: 从“FT_Pos”转换到“GLuint”需要收缩转换
+F:\GIT\Projects\RSM\LearnOpenGL\src\fps.h(39,20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\GIT\Projects\RSM\LearnOpenGL\src\light.h(94,42): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+F:\GIT\Projects\RSM\LearnOpenGL\src\GI3D\RSM.h(66,24): warning C4305: “初始化”: 从“double”到“float”截断
+F:\GIT\Projects\RSM\LearnOpenGL\src\GI3D\RSM.h(67,32): warning C4305: “初始化”: 从“double”到“float”截断
+  glm.cpp
+  正在生成代码...
+  LearnOpenGL.vcxproj -> F:\GIT\Projects\RSM\x64\Debug\RSM.exe
